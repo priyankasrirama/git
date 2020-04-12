@@ -9,3 +9,5 @@ To check all branches - git branch --all, git branch -a
 To check current branch- git branch
 To get changes from remot repo to local repo- git pull
 To switch between branches - git checkout (branch-name)
+To check changes and also what are ready to commit of local repo- git status
+To merge changes made to a branch to another branch we use -pull request(pr)
