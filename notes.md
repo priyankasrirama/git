@@ -21,3 +21,18 @@ git commit -m "commit message"
 ```
 git push
 ```
+
+## Branches
+* Default branch for any repo - `master`
+* we will create multiple branches for development
+* branch types
+    * master
+    * develop
+    * release
+    * feature
+    * hotfix
+* we create develop branch from master
+* we create release branche(s) from develop
+* all release branches merges to develop
+* develop branch merges to master
+* master get deployed to production

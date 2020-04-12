@@ -5,3 +5,7 @@ git commit -m "java basics"
 git remote add origin https://github.com/priyankasrirama/java-basics.git
 git push -u origin master
 git clone https://github.com/priyankasrirama/java-basics.git
+To check all branches - git branch --all, git branch -a
+To check current branch- git branch
+To get changes from remot repo to local repo- git pull
+To switch between branches - git checkout (branch-name)
